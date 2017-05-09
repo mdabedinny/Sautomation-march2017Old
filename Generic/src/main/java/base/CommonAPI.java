@@ -1,12 +1,16 @@
 package base;
 
 import org.openqa.selenium.By;
+import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.annotations.*;
 import sun.management.counter.Units;
 
@@ -48,16 +52,16 @@ public class CommonAPI {
     public WebDriver getLocalDriver(@Optional("mac") String OS,String browserName){
         if(browserName.equalsIgnoreCase("chrome")){
             if(OS.equalsIgnoreCase("Mac")){
-                System.setProperty("webdriver.chrome.driver", "../Generic/driver/chromedriver");
+                System.setProperty("webdriver.chrome.driver", "/Users/mdislam/Documents/workspace/automation-march2017/Generic/driver/chromedriver");
             }else if(OS.equalsIgnoreCase("Win")){
-                System.setProperty("webdriver.chrome.driver", "../Generic/driver/chromedriver.exe");
+                System.setProperty("webdriver.chrome.driver", "/Users/mdislam/Documents/workspace/automation-march2017/Generic/driver/chromedriver");
             }
             driver = new ChromeDriver();
         }else if(browserName.equalsIgnoreCase("firefox")){
             if(OS.equalsIgnoreCase("Mac")){
-                System.setProperty("webdriver.gecko.driver", "../Generic/driver/geckodriver");
+                System.setProperty("webdriver.gecko.driver", "/Users/mdislam/Documents/workspace/automation-march2017/Generic/driver/geckodriver");
             }else if(OS.equalsIgnoreCase("Windows")) {
-                System.setProperty("webdriver.gecko.driver", "../Generic/driver/geckodriver.exe");
+                System.setProperty("webdriver.gecko.driver", "/Users/mdislam/Documents/workspace/automation-march2017/Generic/driver/geckodriver");
             }
             driver = new FirefoxDriver();
 
@@ -70,10 +74,10 @@ public class CommonAPI {
     }
     public WebDriver getLocalGridDriver(String browserName) {
         if (browserName.equalsIgnoreCase("chrome")) {
-            System.setProperty("webdriver.chrome.driver", "../Generic/driver/chromedriver");
+            System.setProperty("webdriver.chrome.driver", "/Users/mdislam/Documents/workspace/automation-march2017/Generic/driver/chromedriver");
             driver = new ChromeDriver();
         } else if (browserName.equalsIgnoreCase("firefox")) {
-            System.setProperty("webdriver.gecko.driver", "../Generic/driver/geckodriver");
+            System.setProperty("webdriver.gecko.driver", "/Users/mdislam/Documents/workspace/automation-march2017/Generic/driver/geckodriver");
             driver = new FirefoxDriver();
         } else if (browserName.equalsIgnoreCase("ie")) {
             System.setProperty("webdriver.ie.driver", "../Generic/browser-driver/IEDriverServer.exe");
@@ -111,5 +115,34 @@ public class CommonAPI {
     }
     public void clickByCss(String locator){
         driver.findElement(By.cssSelector(locator)).click();
+    }
+    public String  getCurrentPageUrl(){
+        String url = driver.getCurrentUrl();
+        return url;
+    }
+    public String getTitle(){return driver.getTitle();}
+     public void clickOnButtonByJavaScript(){
+       JavascriptExecutor js = (JavascriptExecutor)driver;
+        js.executeScript("arguments[0].click();");
+    }
+    public void waitUntilVisible(WebElement webElement){
+        WebDriverWait wait = new WebDriverWait(driver, 10);
+        WebElement element = wait.until(ExpectedConditions.visibilityOf(webElement));
+    }
+    public boolean isElementPresent(WebElement webElement) {
+        try {
+            if (webElement.isDisplayed()) {
+                return true;
+            } else {
+                return false;
+            }
+        } catch (Exception ex) {
+            return false;
+        }
+    }
+    public void clickIfElementPresent(WebElement webElement){
+        if(isElementPresent(webElement)==true) {
+            webElement.click();
+        }
     }
 }

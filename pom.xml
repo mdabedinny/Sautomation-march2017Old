@@ -12,6 +12,7 @@
         <module>Generic</module>
         <module>Amazon</module>
         <module>Upscalelearning</module>
+        <module>BestBuy</module>
     </modules>
 
     <dependencyManagement>

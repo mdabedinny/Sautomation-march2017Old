@@ -37,8 +37,8 @@
                 <configuration>
                     <redirectTestOutputToFile>true</redirectTestOutputToFile>
                     <suiteXmlFiles>
-                        <!--<suiteXmlFile>target/test-classes/${AmazonAppRunner}</suiteXmlFile>-->
-                        <suiteXmlFile>target/test-classes/AmazonTestRunnerOnWindows.xml</suiteXmlFile>
+                       <!-- <suiteXmlFile>target/test-classes/${AmazonAppRunner}</suiteXmlFile>-->
+                        <!--<suiteXmlFile>target/test-classes/AmazonTestRunnerOnWindows.xml</suiteXmlFile>-->
                         <suiteXmlFile>target/test-classes/AmazonTestRunnerOnMac.xml</suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>

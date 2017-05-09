@@ -3,7 +3,7 @@
 
 <suite name="Amazon" parallel="tests">
 
-    <parameter name="useCloudEnv" value="true"/>
+    <parameter name="useCloudEnv" value="false"/>
     <parameter name="cloudEnvName" value="browserstack"/>
     <parameter name="os" value="OS X"/>
     <parameter name="os_version" value="Sierra"/>
@@ -13,7 +13,7 @@
 
     <test name = "Amazon Home">
         <classes>
-            <!--<class name="home.TestAmazonHome"/>-->
+            <class name="home.TestAmazonHome"/>
             <class name="home.SearchItems"/>
         </classes>
     </test>
