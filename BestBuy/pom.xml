@@ -12,7 +12,7 @@
     <artifactId>BestBuy</artifactId>
     <dependencies>
         <dependency>
-            <groupId>com.automation</groupId>
+            <groupId>PntAutomation</groupId>
             <artifactId>Generic</artifactId>
             <version>1.0-SNAPSHOT</version>
         </dependency>

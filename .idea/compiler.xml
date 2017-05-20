@@ -9,15 +9,19 @@
         <module name="Amazon" />
         <module name="BestBuy" />
         <module name="Generic" />
+        <module name="NYP" />
         <module name="Upscalelearning" />
+        <module name="Yahoo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Amazon" target="1.8" />
+      <module name="automation" target="1.8" />
       <module name="BestBuy" target="1.8" />
       <module name="Generic" target="1.8" />
-      <module name="PntAutomation" target="1.8" />
+      <module name="NYP" target="1.8" />
       <module name="Upscalelearning" target="1.8" />
+      <module name="Yahoo" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
