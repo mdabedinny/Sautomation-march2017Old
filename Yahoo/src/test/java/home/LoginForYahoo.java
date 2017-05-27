@@ -1,8 +1,11 @@
 package home;
 
 import base.CommonAPI;
+import homePage.SigninPage;
 import org.openqa.selenium.By;
+import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.Test;
+import utility.reporting.TestLogger;
 
 import java.util.concurrent.TimeUnit;
 
@@ -10,15 +13,11 @@ import java.util.concurrent.TimeUnit;
  * Created by mdislam on 5/9/17.
  */
 public class LoginForYahoo extends CommonAPI{
+    SigninPage signinPage;
     @Test
     public void loginWithValidCrentail(){
-        clickByCss("#uh-signin");
-        driver.findElement(By.name("login-username")).sendKeys("abedinmdj@yahoo.com");
-        driver.findElement(By.name("signin")).click();
-        driver.findElement(By.name("password")).sendKeys("Mithu1981");
-        driver.findElement(By.id("login-signin")).click();
-        System.out.println("I am a java devloper");
-        
-        //*[@id="login-passwd"]
+        TestLogger.log(getClass().getSimpleName() + ": " + converToString(new Object(){}.getClass().getEnclosingMethod().getName()));
+        signinPage = PageFactory.initElements(driver, SigninPage.class);
+        signinPage.signin("abedinmdj@yahoo.com", "Mithu1981");
     }
 }

@@ -3,6 +3,7 @@ package home;
 import base.CommonAPI;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.Test;
+import utility.reporting.TestLogger;
 
 /**
  * Created by mdislam on 5/13/17.

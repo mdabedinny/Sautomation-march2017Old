@@ -13,8 +13,11 @@
 
     <test name = "BestBuy Home">
         <classes>
-            <class name="home.TestBestBuyHome"/>
-            <!-- <class name="home.SearchItems"/>-->
+            <!--<class name="home.TestBestBuyHome"/>-->
+            <!--<class name="home.LogoTest"/>-->
+            <class name="home.SearchItems"/>
+            <!--<class name="home.ProductLinkPageTest"/>-->
+            <!--<class name="home.GetfeaturedOfferText"/>-->
         </classes>
     </test>
 

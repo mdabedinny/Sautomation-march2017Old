@@ -18,25 +18,31 @@ public class HomePage extends CommonAPI {
     public WebElement getMailLink(){return mailLink;}
     public void clickOnMailLink(){getMailLink().click();}
 
-    @FindBy(how = How.CSS, using = ".C(#fff) Fz(13px)") public WebElement flickrLink;
+    @FindBy(how = How.CSS, using = "a[data-ylk='slk:flickr;t5:flickr;cpos:3;']") public WebElement flickrLink;
     public WebElement getFlickrLink(){return flickrLink;}
     public void clickOnFlickrLink(){getFlickrLink().click();}
-    @FindBy(how = How.CSS, using = ".C(#fff) Fz(13px)") public WebElement tumblrLink;
+
+    @FindBy(how = How.CSS, using = "a[data-ylk='slk:tumblr;t5:tumblr;cpos:4;']") public WebElement tumblrLink;
     public WebElement getTumblrLink(){return tumblrLink;}
     public void clickOnTumblrLink(){getTumblrLink().click();}
-    @FindBy(how = How.CSS, using = ".C(#fff) Fz(13px)") public  WebElement answersLink;
+
+    @FindBy(how = How.CSS, using = "a[data-ylk='slk:answers;t5:answers;cpos:5;']") public  WebElement answersLink;
     public WebElement getAnswersLink(){return answersLink;}
     public void clickOnAnswersLink(){getAnswersLink().click();}
-    @FindBy(how = How.CSS, using = ".C(#fff) Fz(13px)") public  WebElement groupsLink;
+
+    @FindBy(how = How.CSS, using = "a[data-ylk='slk:groups;t5:groups;cpos:6;']") public  WebElement groupsLink;
     public WebElement getGroupsLink(){return groupsLink;}
     public void clickOnGroupsLink(){getGroupsLink().click();}
-    @FindBy(how = How.CSS, using = "#mega-topbar li:nth-child(7)>a") public WebElement mobileLink;
+
+    @FindBy(how = How.CSS, using = "a[data-ylk='slk:mobile;t5:mobile;cpos:7;']") public WebElement mobileLink;
     public WebElement getMobileLink(){return mobileLink;}
     public void clickOnMobileLink(){getMobileLink().click();}
-    @FindBy(how = How.CSS, using = ".C(#fff) Fz(13px)") public WebElement viewLink;
+
+    @FindBy(how = How.CSS, using = "a[data-ylk='slk:view;t5:view;cpos:8;']") public WebElement viewLink;
     public WebElement getViewLink(){return viewLink;}
     public void clickOnViewLink(){getViewLink().click();}
-    @FindBy(how = How.CSS, using = ".navigation-menu-title Pos(r) C(#fff) Pstart(12px) Pend(24px) Py(4px) Fz(13px) menu-open_C($topbarMenu) menu-open_Bgc(#fff) menu-open_Z(8) rapidnofollow")
+
+    @FindBy(how = How.CSS, using = "a[data-ylk='rspns:op;t5:more;slk:more;itc:1;elmt:mu;cpos:9;']")
     public  WebElement moreLink;
     public WebElement getMoreLink(){return moreLink;}
     public void clickOnMoreLink(){getMoreLink().click();}
