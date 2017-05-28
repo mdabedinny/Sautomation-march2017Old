@@ -20,33 +20,16 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BestBuy/src/test/java/home/ServicesLinkPageTest.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BestBuy/src/test/java/home/ShowNowLinkPageTest.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BestBuy/src/test/java/home/WeeklyAdLinkPageTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Yahoo/src/main/java/homePage/SigninPage.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/BestBuy/src/main/resources/BestBuyTestRunnerOnMac.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/BestBuy/target/classes/BestBuyTestRunnerOnMac.xml" afterPath="" />
       <change type="MOVED" beforePath="$PROJECT_DIR$/BestBuy/src/main/resources/BestBuyTestRunnerOnMac.xml" afterPath="$PROJECT_DIR$/BestBuy/src/test/java/resources/BestBuyTestRunnerOnMac.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BestBuy/data/file.xls" afterPath="$PROJECT_DIR$/BestBuy/data/file.xls" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BestBuy/target/test-classes/home/TestBestBuyHome$1.class" afterPath="$PROJECT_DIR$/BestBuy/target/test-classes/home/TestBestBuyHome$1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BestBuy/target/test-classes/home/TestBestBuyHome.class" afterPath="$PROJECT_DIR$/BestBuy/target/test-classes/home/TestBestBuyHome.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Yahoo/target/classes/homePage/HomePage.class" afterPath="$PROJECT_DIR$/Yahoo/target/classes/homePage/HomePage.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Yahoo/target/test-classes/home/ClickOnHomePageHomeLink$1.class" afterPath="$PROJECT_DIR$/Yahoo/target/test-classes/home/ClickOnHomePageHomeLink$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Yahoo/target/test-classes/home/ClickOnHomePageHomeLink.class" afterPath="$PROJECT_DIR$/Yahoo/target/test-classes/home/ClickOnHomePageHomeLink.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Yahoo/target/test-classes/home/LoginForYahoo.class" afterPath="$PROJECT_DIR$/Yahoo/target/test-classes/home/LoginForYahoo.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BestBuy/BestBuy.iml" afterPath="$PROJECT_DIR$/BestBuy/BestBuy.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BestBuy/Extent-Report/ExtentReport.html" afterPath="$PROJECT_DIR$/BestBuy/Extent-Report/ExtentReport.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BestBuy/pom.xml" afterPath="$PROJECT_DIR$/BestBuy/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BestBuy/src/main/java/search/ItemsToBeSearched.java" afterPath="$PROJECT_DIR$/BestBuy/src/main/java/search/ItemsToBeSearched.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BestBuy/src/main/java/search/SearchPage.java" afterPath="$PROJECT_DIR$/BestBuy/src/main/java/search/SearchPage.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BestBuy/src/test/java/home/TestBestBuyHome.java" afterPath="$PROJECT_DIR$/BestBuy/src/test/java/home/TestBestBuyHome.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NYP/NYP.iml" afterPath="$PROJECT_DIR$/NYP/NYP.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NYP/src/test/java/home/ClickOnNypHomePageLink.java" afterPath="$PROJECT_DIR$/NYP/src/test/java/home/ClickOnNypHomePageLink.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Yahoo/Extent-Report/ExtentReport.html" afterPath="$PROJECT_DIR$/Yahoo/Extent-Report/ExtentReport.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Yahoo/Yahoo.iml" afterPath="$PROJECT_DIR$/Yahoo/Yahoo.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Yahoo/src/main/java/homePage/HomePage.java" afterPath="$PROJECT_DIR$/Yahoo/src/main/java/homePage/HomePage.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Yahoo/src/test/java/home/ClickOnHomePageHomeLink.java" afterPath="$PROJECT_DIR$/Yahoo/src/test/java/home/ClickOnHomePageHomeLink.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Yahoo/src/main/java/homePage/SigninPage.java" afterPath="$PROJECT_DIR$/Yahoo/src/main/java/homePage/SigninPage.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Yahoo/src/test/java/home/LoginForYahoo.java" afterPath="$PROJECT_DIR$/Yahoo/src/test/java/home/LoginForYahoo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Yahoo/src/test/resources/YahooTestRunnerOnMac.xml" afterPath="$PROJECT_DIR$/Yahoo/src/test/resources/YahooTestRunnerOnMac.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Yahoo/target/test-classes/YahooTestRunnerOnMac.xml" afterPath="$PROJECT_DIR$/Yahoo/target/test-classes/YahooTestRunnerOnMac.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/NYP/target/" />
     <ignored path="$PROJECT_DIR$/BestBuy/target/" />
@@ -65,11 +48,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SigninPage.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SigninPage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Yahoo/src/main/java/homePage/SigninPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="14" column="58" lean-forward="true" selection-start-line="14" selection-start-column="58" selection-end-line="14" selection-end-column="58" />
+            <state relative-caret-position="267">
+              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -78,9 +61,11 @@
       <file leaf-file-name="CommonAPI.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2284">
-              <caret line="192" column="0" lean-forward="false" selection-start-line="192" selection-start-column="0" selection-end-line="192" selection-end-column="0" />
+            <state relative-caret-position="52">
+              <caret line="189" column="0" lean-forward="false" selection-start-line="189" selection-start-column="0" selection-end-line="189" selection-end-column="0" />
               <folding>
+                <element signature="e#8222#8223#0" expanded="true" />
+                <element signature="e#8266#8267#0" expanded="true" />
                 <element signature="e#8333#8334#0" expanded="true" />
               </folding>
             </state>
@@ -92,7 +77,9 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
               <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -102,26 +89,28 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
               <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HomePageManubarLink.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BestBuy/src/main/java/search/HomePageManubarLink.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="10" column="32" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="32" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LoginForYahoo.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="LoginForYahoo.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Yahoo/src/test/java/home/LoginForYahoo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+            <state relative-caret-position="255">
+              <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HomePage.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Yahoo/src/main/java/homePage/HomePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -131,7 +120,7 @@
         <entry file="file://$PROJECT_DIR$/Yahoo/src/test/resources/YahooTestRunnerOnMac.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
-              <caret line="20" column="8" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+              <caret line="20" column="8" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -160,9 +149,11 @@
       <file leaf-file-name="ClickOnHomePageHomeLink.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Yahoo/src/test/java/home/ClickOnHomePageHomeLink.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="534">
+            <state relative-caret-position="990">
               <caret line="70" column="21" lean-forward="false" selection-start-line="70" selection-start-column="21" selection-end-line="70" selection-end-column="21" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -216,7 +207,6 @@
         <option value="$PROJECT_DIR$/BestBuy/src/test/java/home/GetfeaturedOfferText.java" />
         <option value="$PROJECT_DIR$/BestBuy/src/main/java/search/HomePageManubarLink.java" />
         <option value="$PROJECT_DIR$/BestBuy/src/test/java/home/HomePageManubarLinkTest.java" />
-        <option value="$PROJECT_DIR$/Yahoo/src/test/java/home/LoginForYahoo.java" />
         <option value="$PROJECT_DIR$/BestBuy/src/test/java/resources/BestBuyTestRunnerOnMac.xml" />
         <option value="$PROJECT_DIR$/Yahoo/src/main/java/homePage/HomePage.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/utility/reader/DataReader.java" />
@@ -225,6 +215,7 @@
         <option value="$PROJECT_DIR$/Yahoo/src/test/java/home/ClickOnHomePageHomeLink.java" />
         <option value="$PROJECT_DIR$/Yahoo/src/test/resources/YahooTestRunnerOnMac.xml" />
         <option value="$PROJECT_DIR$/Yahoo/src/main/java/homePage/SigninPage.java" />
+        <option value="$PROJECT_DIR$/Yahoo/src/test/java/home/LoginForYahoo.java" />
       </list>
     </option>
   </component>
@@ -266,6 +257,8 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -900,8 +893,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1529,44 +1520,45 @@
       <workItem from="1495798822221" duration="20424000" />
       <workItem from="1495840177509" duration="12814000" />
       <workItem from="1495861885037" duration="1436000" />
-      <workItem from="1495898317195" duration="4070000" />
+      <workItem from="1495898317195" duration="4158000" />
+      <workItem from="1495984998882" duration="8013000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="_Users_mdislam_Documents_workspace_Sautomation-march2017Old_Yahoo_src_test_resources_YahooTestRunnerOnMac_xml - 2017.05.27 at 01h 19m 47s.xml">
+    <history-entry file="_Users_mdislam_Documents_workspace_Sautomation-march2017Old_Yahoo_src_test_resources_YahooTestRunnerOnMac_xml - 2017.05.28 at 12h 58m 42s.xml">
       <configuration name="/Users/mdislam/Documents/workspace/Sautomation-march2017Old/Yahoo/src/test/resources/YahooTestRunnerOnMac.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_mdislam_Documents_workspace_Sautomation-march2017Old_Yahoo_src_test_resources_YahooTestRunnerOnMac_xml - 2017.05.27 at 01h 28m 46s.xml">
+    <history-entry file="_Users_mdislam_Documents_workspace_Sautomation-march2017Old_Yahoo_src_test_resources_YahooTestRunnerOnMac_xml - 2017.05.28 at 13h 03m 05s.xml">
       <configuration name="/Users/mdislam/Documents/workspace/Sautomation-march2017Old/Yahoo/src/test/resources/YahooTestRunnerOnMac.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_mdislam_Documents_workspace_Sautomation-march2017Old_Yahoo_src_test_resources_YahooTestRunnerOnMac_xml - 2017.05.27 at 01h 33m 48s.xml">
+    <history-entry file="_Users_mdislam_Documents_workspace_Sautomation-march2017Old_Yahoo_src_test_resources_YahooTestRunnerOnMac_xml - 2017.05.28 at 13h 11m 32s.xml">
       <configuration name="/Users/mdislam/Documents/workspace/Sautomation-march2017Old/Yahoo/src/test/resources/YahooTestRunnerOnMac.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_mdislam_Documents_workspace_Sautomation-march2017Old_Yahoo_src_test_resources_YahooTestRunnerOnMac_xml - 2017.05.27 at 11h 24m 34s.xml">
+    <history-entry file="_Users_mdislam_Documents_workspace_Sautomation-march2017Old_Yahoo_src_test_resources_YahooTestRunnerOnMac_xml - 2017.05.28 at 13h 14m 34s.xml">
       <configuration name="/Users/mdislam/Documents/workspace/Sautomation-march2017Old/Yahoo/src/test/resources/YahooTestRunnerOnMac.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_mdislam_Documents_workspace_Sautomation-march2017Old_Yahoo_src_test_resources_YahooTestRunnerOnMac_xml - 2017.05.27 at 11h 27m 27s.xml">
+    <history-entry file="_Users_mdislam_Documents_workspace_Sautomation-march2017Old_Yahoo_src_test_resources_YahooTestRunnerOnMac_xml - 2017.05.28 at 13h 18m 19s.xml">
       <configuration name="/Users/mdislam/Documents/workspace/Sautomation-march2017Old/Yahoo/src/test/resources/YahooTestRunnerOnMac.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_mdislam_Documents_workspace_Sautomation-march2017Old_Yahoo_src_test_resources_YahooTestRunnerOnMac_xml - 2017.05.27 at 12h 01m 28s.xml">
+    <history-entry file="_Users_mdislam_Documents_workspace_Sautomation-march2017Old_Yahoo_src_test_resources_YahooTestRunnerOnMac_xml - 2017.05.28 at 13h 20m 22s.xml">
       <configuration name="/Users/mdislam/Documents/workspace/Sautomation-march2017Old/Yahoo/src/test/resources/YahooTestRunnerOnMac.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_mdislam_Documents_workspace_Sautomation-march2017Old_Yahoo_src_test_resources_YahooTestRunnerOnMac_xml - 2017.05.27 at 12h 09m 34s.xml">
+    <history-entry file="_Users_mdislam_Documents_workspace_Sautomation-march2017Old_Yahoo_src_test_resources_YahooTestRunnerOnMac_xml - 2017.05.28 at 13h 22m 24s.xml">
       <configuration name="/Users/mdislam/Documents/workspace/Sautomation-march2017Old/Yahoo/src/test/resources/YahooTestRunnerOnMac.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_mdislam_Documents_workspace_Sautomation-march2017Old_Yahoo_src_test_resources_YahooTestRunnerOnMac_xml - 2017.05.27 at 12h 11m 21s.xml">
+    <history-entry file="_Users_mdislam_Documents_workspace_Sautomation-march2017Old_Yahoo_src_test_resources_YahooTestRunnerOnMac_xml - 2017.05.28 at 13h 26m 22s.xml">
       <configuration name="/Users/mdislam/Documents/workspace/Sautomation-march2017Old/Yahoo/src/test/resources/YahooTestRunnerOnMac.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_mdislam_Documents_workspace_Sautomation-march2017Old_Yahoo_src_test_resources_YahooTestRunnerOnMac_xml - 2017.05.27 at 12h 24m 17s.xml">
+    <history-entry file="_Users_mdislam_Documents_workspace_Sautomation-march2017Old_Yahoo_src_test_resources_YahooTestRunnerOnMac_xml - 2017.05.28 at 13h 46m 26s.xml">
       <configuration name="/Users/mdislam/Documents/workspace/Sautomation-march2017Old/Yahoo/src/test/resources/YahooTestRunnerOnMac.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_mdislam_Documents_workspace_Sautomation-march2017Old_Yahoo_src_test_resources_YahooTestRunnerOnMac_xml - 2017.05.27 at 12h 27m 25s.xml">
+    <history-entry file="_Users_mdislam_Documents_workspace_Sautomation-march2017Old_Yahoo_src_test_resources_YahooTestRunnerOnMac_xml - 2017.05.28 at 13h 48m 46s.xml">
       <configuration name="/Users/mdislam/Documents/workspace/Sautomation-march2017Old/Yahoo/src/test/resources/YahooTestRunnerOnMac.xml" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98015000" />
+    <option name="totallyTimeSpent" value="106116000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="144" y="23" width="1107" height="729" extended-state="0" />
@@ -1575,25 +1567,25 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3242424" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3242424" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32983023" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32983023" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3121212" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19150858" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27575758" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1609,7 +1601,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32983023" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1618,20 +1610,20 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3469697" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27575758" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3272727" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3242424" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3060606" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17320262" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3121212" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19150858" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287879" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1950,47 +1942,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Yahoo/src/main/java/homePage/HomePage.java">
+    <entry file="file://$PROJECT_DIR$/Yahoo/src/test/java/home/ClickOnHomePageHomeLink.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        <state relative-caret-position="990">
+          <caret line="70" column="21" lean-forward="false" selection-start-line="70" selection-start-column="21" selection-end-line="70" selection-end-column="21" />
           <folding>
             <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Yahoo/src/test/java/home/ClickOnHomePageHomeLink.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="534">
-          <caret line="70" column="21" lean-forward="false" selection-start-line="70" selection-start-column="21" selection-end-line="70" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Yahoo/src/test/resources/YahooTestRunnerOnMac.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="20" column="8" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+          <caret line="20" column="8" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Yahoo/src/test/java/home/LoginForYahoo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2284">
-          <caret line="192" column="0" lean-forward="false" selection-start-line="192" selection-start-column="0" selection-end-line="192" selection-end-column="0" />
-          <folding>
-            <element signature="e#8333#8334#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1998,7 +1964,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2006,15 +1974,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BestBuy/src/main/java/search/HomePageManubarLink.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="10" column="32" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="32" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2034,10 +1996,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/BestBuy/src/main/java/search/HomePageManubarLink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" column="32" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="189" column="0" lean-forward="false" selection-start-line="189" selection-start-column="0" selection-end-line="189" selection-end-column="0" />
+          <folding>
+            <element signature="e#8222#8223#0" expanded="true" />
+            <element signature="e#8266#8267#0" expanded="true" />
+            <element signature="e#8333#8334#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Yahoo/src/main/java/homePage/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Yahoo/src/main/java/homePage/SigninPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="14" column="58" lean-forward="true" selection-start-line="14" selection-start-column="58" selection-end-line="14" selection-end-column="58" />
+        <state relative-caret-position="267">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Yahoo/src/test/java/home/LoginForYahoo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding />
         </state>
       </provider>
